@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Human Inactivity Monitoring</string>
+    <string name="nav_drawer_menu">Navigation Drawer</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_number">Number</string>
+    <string name="time_and_battery_screen">Time and Battery Settings</string>
+    <string name="contact_method_screen">Contacting Method Settings</string>
+    <string name="add_contact_button">Add Contact</string>
+    <string name="delete_button">Delete Button</string>
+    <string name="home_screen_title">Emergency Contacts</string>
+    <string name="arrow_icon">Back arrow icon</string>
+    <string name="battery_icon">Battery Icon</string>
+    <string name="save_button">Save</string>
+    <string name="clear_button">Clear</string>
+    <string name="time_message">Please write the how long you normally have your phone locked</string>
+    <string name="battery_message">Please write how low can your battery get</string>
+    <string name="sms_message">Please input the custom SMS message</string>
+    <string name="type_of_method">Please select the type of method for contacting</string>
+    <string name="contacts_list">Contact List</string>
+    <string name="change_button_timeAndBat">Change Time and Battery Settings</string>
+    <string name="change_button_contMethod">Change Contact Method Settings</string>
+    <string name="current_settings">Current Settings</string>
+    <string name="add_contact_screen">Add Emergency Contact</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="testing_button">Testing Button</string>
+    <string name="error_icon">Error Icon</string>
+</resources>
