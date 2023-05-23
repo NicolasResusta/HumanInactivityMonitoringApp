@@ -11,7 +11,7 @@ This is the repo used to implement the app's project work
 
 Here is where the code will be pushed, and it will be used as a version control tool.
 
-## GitLab folders
+## Repo folders
 
 | src |
 | ------------- |
